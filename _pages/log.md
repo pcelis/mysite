@@ -1,6 +1,6 @@
 ---
 layout: default
-title: IMMERSE Log
+title: Progress Log
 ---
 
 ### Week 1: April 26, 2021
