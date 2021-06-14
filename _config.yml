@@ -20,7 +20,7 @@
 
 title: Andres Perez Celis' Site
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/mysite" # the subpath of your site, e.g. /blog
 url: "https://pcelis.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
