@@ -4,11 +4,14 @@ title: Progress Log
 ---
 ### Week: June 21, 2021
  * Goals:
- ** 
+  * Finish Chapter 3 and submit for review.
+  * Upload updated tool (with pandas 1.2.4).
+  * Fix tool to deal with TAMU data.
+  * Preliminary results of TAMU MCU analysis (shapes, frequency, sizes).
 
 ### Week: June 14, 2021
- * Worked on Chapter 3 first sentences.
- * Started Chapter 4 and 5 (first sentences).
+ * Worked on Chapter 3 first sentences (almost done with the whole chapter).
+ * Started Chapter 4 and 5 (first sentences). 
  * Continued with TAMU data analysis. Long scrub cycles are causing two problems in memory. The first one happens after computing offsets of huge amounts of data. This one was solved by partitioning the data. The other problem is that the scrub cycle itself is long. I am working on soving this one. So far, I tried breaking up the scrub cycle and recombining the data (this is the naive and not the best solution). I am also updating the code to pandas 1.2.4 version. The code was created before pandas 1.0 was released, hence, it has some room of improvement.
 
 
