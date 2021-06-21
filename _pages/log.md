@@ -4,10 +4,12 @@ title: Progress Log
 ---
 ### Week: June 21, 2021
  * Goals:
-  * Finish Chapter 3 and submit for review.
-  * Upload updated tool (with pandas 1.2.4).
-  * Fix tool to deal with TAMU data.
-  * Preliminary results of TAMU MCU analysis (shapes, frequency, sizes).
+   * Finish Chapter 3 and submit for review.
+   * Upload updated tool (with pandas 1.2.4).
+   * Fix tool to deal with TAMU data.
+   * Preliminary results of TAMU MCU analysis (shapes, frequency, sizes).
+ * Accomplishments:
+   * --
 
 ### Week: June 14, 2021
  * Worked on Chapter 3 first sentences (almost done with the whole chapter).
