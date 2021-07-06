@@ -2,6 +2,20 @@
 layout: default
 title: Progress Log
 ---
+### Week: July 5, 2021
+ * Goals:
+   * Finish Chapter 3 and resubmit for review.
+   * Finish Chapter 4 and resubmit for review.
+   * Get MCU of 1.9 MeV run of TAMU data.
+ * Accomplishments:
+   * 
+
+### Week: June 28, 2021
+ * Accomplishments:
+   * Send for review chapter 3 and first section of chapter 4 with first sentences as the main idea of all paragraphs.
+   * Updated tool with newest version of pandas.
+   * Tool now won't run into memory issues. I was able to generate the offsets which was no tpossible before.
+
 ### Week: June 21, 2021
  * Goals:
    * Finish Chapter 3 and submit for review.
@@ -9,7 +23,8 @@ title: Progress Log
    * Fix tool to deal with TAMU data.
    * Preliminary results of TAMU MCU analysis (shapes, frequency, sizes).
  * Accomplishments:
-   * --
+   * Continued chapter 3 and 4 of dissertation with whole paragraphs.
+   * Uploaded MCU tool to github repo.
 
 ### Week: June 14, 2021
  * Worked on Chapter 3 first sentences (almost done with the whole chapter).
