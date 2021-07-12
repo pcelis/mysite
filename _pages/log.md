@@ -2,13 +2,23 @@
 layout: default
 title: Progress Log
 ---
+### Week: July 12, 2021
+ * Goals:
+   * Finish Chapter 3 and resubmit for review.
+   * Finish Chapter 4 and resubmit for review.
+   * Finish Chapter 5 and submit for review.
+   * Get offsets of all LETs run of TAMU data.
+
+
 ### Week: July 5, 2021
  * Goals:
    * Finish Chapter 3 and resubmit for review.
    * Finish Chapter 4 and resubmit for review.
    * Get MCU of 1.9 MeV run of TAMU data.
  * Accomplishments:
-   * 
+   * Chapter 3 is almost complete, I am just adding the references and some figures.
+   * Chapter 4 is half-way done. I am still missing some text.
+   * MCU analysis of 4_0 LET is running in debug mode because it failed once.
 
 ### Week: June 28, 2021
  * Accomplishments:
