@@ -8,6 +8,8 @@ title: Progress Log
    * Finish Chapter 4 and resubmit for review.
    * Finish Chapter 5 and submit for review.
    * Get offsets of all LETs run of TAMU data.
+ * Accomplishments
+   * Submitted micro-SEFI TNS paper.
 
 
 ### Week: July 5, 2021
