@@ -2,6 +2,16 @@
 layout: default
 title: Progress Log
 ---
+### Week: July 19, 2021
+ * Goals:
+   * Finish Chapter 4 and resubmit for review.
+   * Finish Chapter 5 and submit for review.
+   * Finish Chapter 2 and submit for review.
+   * Get MCUs of all LETs run of TAMU data.
+ * Accomplishments
+   * TBA
+
+
 ### Week: July 12, 2021
  * Goals:
    * Finish Chapter 3 and resubmit for review.
@@ -10,6 +20,13 @@ title: Progress Log
    * Get offsets of all LETs run of TAMU data.
  * Accomplishments
    * Submitted micro-SEFI TNS paper.
+   * Finished chapter 3 and subitted for review.
+   * Finished chapter 4 beam test sections. I am missing half of fault injection. 
+   * Got Offsets of 3 runs and a half. The run 15 had an error and it aborted the program. 
+[21408926 rows x 5 columns]
+Group Name:(1, 'LVDS', '0019:2', 367)
+Killed
+
 
 
 ### Week: July 5, 2021
