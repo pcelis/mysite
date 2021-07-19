@@ -4,6 +4,7 @@ title: Progress Log
 ---
 ### Week: July 19, 2021
  * Goals:
+   * Debug offsets for 15 LET. The program gets killed after more than a day of running.
    * Finish Chapter 4 and resubmit for review.
    * Finish Chapter 5 and submit for review.
    * Finish Chapter 2 and submit for review.
@@ -20,9 +21,10 @@ title: Progress Log
    * Get offsets of all LETs run of TAMU data.
  * Accomplishments
    * Submitted micro-SEFI TNS paper.
+   * Added more background to chapter 2.
    * Finished chapter 3 and subitted for review.
    * Finished chapter 4 beam test sections. I am missing half of fault injection. 
-   * Got Offsets of 3 runs and a half. The run 15 had an error and it aborted the program. 
+   * Got Offsets of 3 runs and a half. The run 15 had an error and it killed the program. 
 [21408926 rows x 5 columns]
 Group Name:(1, 'LVDS', '0019:2', 367)
 Killed
