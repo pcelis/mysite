@@ -2,6 +2,16 @@
 layout: default
 title: Progress Log
 ---
+
+### Week: July 26, 2021
+ * Goals:
+   * Debug offsets for 15 LET.
+   * Finish Chapter 6 and submit for review.
+   * Finish Chapter 5 and submit for review.
+   * Update Chapter 2 (background). I realized that this chapter keeps on groing with more topics to cover. Might be the last to submit for review.
+ * Accomplishments
+   * TBA
+
 ### Week: July 19, 2021
  * Goals:
    * Debug offsets for 15 LET. The program gets killed after more than a day of running.
@@ -10,7 +20,12 @@ title: Progress Log
    * Finish Chapter 2 and submit for review.
    * Get MCUs of all LETs run of TAMU data.
  * Accomplishments
-   * TBA
+   * The program of LET 15 is running again in debug mode.
+   * (Partially) finished running 24_3 LET but computer rebooted again. I need to check if it actually finished or not.
+   * Finished Chapter 4. I am reading it before submitting it again.
+   * Chapter 5 is about 50% or more done.
+   * Created spreadsheet summarizing all the MCU results comoputed so far.
+   * Try alternatives for the 15_0 let, started it running on the weekend after another power outage.
 
 
 ### Week: July 12, 2021
