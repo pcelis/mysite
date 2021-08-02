@@ -5,12 +5,22 @@ title: Progress Log
 
 ### Week: July 26, 2021
  * Goals:
+   * Debug offsets for 15 LET. I will try again once the other run finishes.
+   * Finish Chapter 6 and submit for review.
+   * Finish Chapter 7 and submit for review.
+ * Accomplishments
+   * TBA
+
+### Week: July 26, 2021
+ * Goals:
    * Debug offsets for 15 LET.
    * Finish Chapter 6 and submit for review.
    * Finish Chapter 5 and submit for review.
    * Update Chapter 2 (background). I realized that this chapter keeps on groing with more topics to cover. Might be the last to submit for review.
  * Accomplishments
-   * TBA
+   * Finished writing chapter 5, I am reading it before submitting it.
+   * Couldn't debug LET 15, there was another computer reboot during the week. I decided to run the highest LET because that one didn't have as much data.
+   * Rearrange and filled up result tables for MCU and micro-SEFI identification.
 
 ### Week: July 19, 2021
  * Goals:
