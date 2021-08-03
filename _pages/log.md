@@ -3,7 +3,7 @@ layout: default
 title: Progress Log
 ---
 
-### Week: July 26, 2021
+### Week: August 2, 2021
  * Goals:
    * Debug offsets for 15 LET. I will try again once the other run finishes.
    * Finish Chapter 6 and submit for review.
